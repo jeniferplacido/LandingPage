@@ -1,1 +1,1 @@
-# LandingPage-TEC-
+# LandingPage(TEC+)
